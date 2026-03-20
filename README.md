@@ -46,4 +46,4 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact Akshit Mittal at [mittalakshit4@gmail.com].
+If you have any questions or suggestions, please feel free to contact Nipurn Goyal at goyalnipurn203@gmail.com
